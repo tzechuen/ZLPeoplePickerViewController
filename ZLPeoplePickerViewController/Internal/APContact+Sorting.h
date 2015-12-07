@@ -6,7 +6,7 @@
 //  Copyright (c) 2014 Zhixuan Lai. All rights reserved.
 //
 
-#import "APContact.h"
+@import APAddressBook;
 
 @interface APContact (Sorting)
 
